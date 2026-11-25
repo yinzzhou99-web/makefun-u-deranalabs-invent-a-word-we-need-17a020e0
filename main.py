@@ -1,3 +1,4 @@
+# A coined word for the almost-sent message, saved here as one tidy little entry.
 """Invent a Word We Need entry.
 
 Writes one invented word plus its one-line definition to
